@@ -19,5 +19,5 @@ DevOps is a way of working that brings together software developers (Dev) and IT
 4. **Saves Time and Money**: Automatic processes are often cheaper and faster.
 5. **Happier Customers**: Quicker updates and fewer problems mean satisfied users.
 
-Thanks @LondheShubham153 Bhaiya 
+Thanks [Shubham Bhaiya](https://github.com/LondheShubham153)
 Joined #90DaysOfDevops 🎉🎉
